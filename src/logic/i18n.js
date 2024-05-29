@@ -5,6 +5,7 @@ export function setupI18n() {
     register("en", () => import("../../languages/en.json"));
     register("en-AU", () => import("../../languages/en-AU.json"));
     register("de", () => import("../../languages/de.json"));
+    register("zh-Hant", () => import("../../languages/zh-Hant.json"));
 
     init({
         fallbackLocale: "en",

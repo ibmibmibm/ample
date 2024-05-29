@@ -18,4 +18,5 @@
     <sl-option value="en">English (US)</sl-option>
     <sl-option value="en-AU">English (AU)</sl-option>
     <sl-option value="de">Deutsch</sl-option>
+    <sl-option value="zh-Hant">繁體中文</sl-option>
 </sl-select>
