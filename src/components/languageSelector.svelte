@@ -32,6 +32,7 @@
         Português Brasil
     </sl-option>
     <sl-option value="es" data-lang="Spanish">Español</sl-option>
+    <sl-option value="zh-Hant" data-lang="Traditional Chinese">繁體中文</sl-option>
 </sl-select>
 
 <style>
