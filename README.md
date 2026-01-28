@@ -22,7 +22,7 @@ Note: This is a personal project, shared as-is in case it’s useful to others. 
 
 ## Translations
 
-Edit or add new languages via [Inlang Fink](https://inlang.com/editor/github.com/mitchray/ample)
+Edit or add new languages via [Inlang Fink](https://fink.inlang.com/github.com/ibmibmibm/ample)
 
 ## Config file
 
